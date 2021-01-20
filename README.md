@@ -21,8 +21,8 @@ types of monsters.
 2. Type "python3 project/main.py" to start the app.
 
 ```bash
- cd ibs-public-wanderer
- python3 project/main.py
+cd ibs-public-wanderer
+python3 project/main.py
 ```
 
 3. Use the arrow keys or WASD to move the hero around
