@@ -22,7 +22,7 @@ types of monsters.
 
 ```bash
  cd ibs-public-wanderer
- project/python3 main.py
+ python3 project/main.py
 ```
 
 3. Use the arrow keys or WASD to move the hero around
